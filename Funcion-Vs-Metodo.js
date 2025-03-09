@@ -40,7 +40,7 @@ a()
 
 const rocket = {
     name: 'Falcon 1',
-    launchMessage: function () {
+    launchMessage: function  () {
         console.log(`Lanzamiento de ${this.name}`)
     }
 }

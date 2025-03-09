@@ -10,7 +10,7 @@ For of se utiliza en objetos iterables, arrays  y strings
 let canasta = ['manzana', 'pera', 'uva', 'sandía'];
 
 for (fruta of canasta) {
-    console.log(fruta);
+    console.log(fruta); 
 }
 
 

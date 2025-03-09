@@ -3,7 +3,7 @@
 // 1. New Array()
 
 const fruits = Array('apple', 'banana', 'orange')
-console.log(fruits)
+console.log(fruits) 
 
 const justOneNumber = Array(12)
 console.log(justOneNumber)

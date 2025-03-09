@@ -9,6 +9,6 @@ const originalPrice = 1000
 const discountPercentage = 15
 const finalPrice = calculatedDiscountedPrice(originalPrice, discountPercentage)
 
-console.log(`Original Price: $` + originalPrice)
+console.log(`Original Price: $` + originalPrice) 
 console.log(`Discount Percentage: ` + discountPercentage + `%`)
 console.log(`Final Price: $` + finalPrice)

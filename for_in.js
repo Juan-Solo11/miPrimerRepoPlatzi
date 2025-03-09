@@ -11,7 +11,7 @@ for (variable in objeto) {
 }
 */
 
-const listaDeCompras = {
+const listaDeCompras = { 
     manzana: 5, 
     pera: 3,
     naranja: 2,

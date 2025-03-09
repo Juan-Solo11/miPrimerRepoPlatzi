@@ -37,7 +37,7 @@ counterB()
 
 function outer () {
     let message = 'Hi!'
-
+ 
     function inner (name) {
         console.log(message + name)
     }

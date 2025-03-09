@@ -11,7 +11,7 @@ const newGreeting = (name) => {
 const newGreetingImplicit = name => `Hi, ${name}`
 const newGreetingImplicitWithTwoParameters = (name, lastName) => `Hi, I'm ${name} ${lastName}`
 
-// Lexical binding
+// Lexical binding 
 const fictionalCharacter = {
     name: 'Uncle Ben', 
 
